@@ -59,7 +59,7 @@ ionic cordova prepare               # re-install plugins compatible with cordova
 Install the WKWebViewPlugin:
 
 ```
-ionic cordova plugin add cordova-plugin-ionic-webview --save
+ionic cordova plugin add cordova-plugin-ionic-webview-advance --save
 ```
 
 **Note:**
